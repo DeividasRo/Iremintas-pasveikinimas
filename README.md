@@ -1,5 +1,5 @@
 # Įrėmintas pasisveikinimas
-Programa, kuri atspausdina įrėmintas pasisveikinimą su vartotojo įvestu vardu.
+Programa, kuri atspausdina įrėmintą pasisveikinimą su vartotojo įvestu vardu.
 
 ![Screenshot_1](https://user-images.githubusercontent.com/99316667/153307156-64901b19-dab7-4911-aa8b-dc6cea103bc4.png)
 
