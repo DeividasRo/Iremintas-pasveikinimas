@@ -7,9 +7,9 @@ Programa, kuri atspausdina įrėmintą pasisveikinimą su vartotojo įvestu vard
 # Visos versijos
 ## Versija 0.1
 Programa paprašo vartotojo įvesti savo vardą. Tuomet išvedamos penkios eilutes. 
-- Pirma eilutė atitinka viršutinį rėmėlį, kurį sudaro tiek '*' simbolių, kiek jų yra įvestame varde, pasisveikinime "Sveikas ," bei  po tarpą ir '*' eilutės pradžioje ir pabaigoje. 
-- Antroje eilutėje pirmas ir paskutinis simboliai yra '*', o vidus užpildomas tarpais.
-- Trečios eilutės pradžioje ir pabaigoje yra simboliai '*' ir tarpai, skiriantys pasisveikinimą su įvestu vardu.
+- Pirma eilutė atitinka viršutinį rėmėlį, kurį sudaro tiek * simbolių, kiek jų yra įvestame varde, pasisveikinime "Sveikas ," bei  po tarpą ir * eilutės pradžioje ir pabaigoje. 
+- Antroje eilutėje pirmas ir paskutinis simboliai yra *, o vidus užpildomas tarpais.
+- Trečios eilutės pradžioje ir pabaigoje yra simboliai * ir tarpai, skiriantys pasisveikinimą su įvestu vardu.
 - Ketvirta ir penkta eilutės analogiškos antrai ir pirmai.
 
 ## Versija 0.2
